@@ -17,6 +17,7 @@ A JavaFX desktop application for managing the daily operations of a bakery busin
   - Goods categorized for easy selection
   - Automatic total calculation on orders
   - Access to customer order history
+  - Prints the bell on a pdf file.
 
 - **Manager Dashboard (Admin Panel)**  
   - View sales and employee statistics
